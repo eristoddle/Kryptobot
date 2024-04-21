@@ -1,4 +1,4 @@
-from ..publishers.ticker import Ticker
+from .. vajratechnosolutions/akbank28.ticker import Ticker
 from ..core import Core
 
 
